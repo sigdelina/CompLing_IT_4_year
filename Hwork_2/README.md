@@ -2,7 +2,7 @@
 
 --- 
 
-* *[Ссылка на скрины графиков, если они вдруг не прогрузятся ](https://yadi.sk/d/O_FBQxS2gsbp4w?w=1)*
+* *[Ссылка на скрины графиков, если они вдруг не прогрузятся ](https://yadi.sk/d/O_FBQxS2gsbp4w?w=1)*: pca-tsne, tf-idf lda, countvectorizer lda
 
 
 
